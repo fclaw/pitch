@@ -1,1 +1,4 @@
-There will be the description of mine
+Let me tell you about me a bit. 
+I am much keen on functional programming with inclination to WEB especially its applicability to the worldly problems.
+I've leveraged Haskell and Purescript for both my own project and making a living.
+I took part in serveral start-ups including my own.
